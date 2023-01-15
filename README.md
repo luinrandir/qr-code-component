@@ -72,6 +72,9 @@ The CSS below is the `visually-hidden` class that helps hide the content, yet st
   width: 1px;
 }
 ```
+However, after completing the challenge and getting feedback, I have come to realize that sometimes simplicity is better. Even though the above code was originally added,
+it was removed as using semantic HTML assisted with the accessibility. I still see the usefulness that the above code snippets can provide and hope that one day I might run
+into a situation that needs them.
 
 ### Continued development
 
